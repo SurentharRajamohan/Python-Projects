@@ -1,2 +1,2 @@
 # Python-Projects
-Funny Python Projects
+Funny Python Projects by Surenthar Rajamohan
